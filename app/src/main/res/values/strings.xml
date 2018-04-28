@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random number</string>
+    <string name="random">Random</string>
+    <string name="count">Count</string>
+    <string name="toast">toast</string>
+    <string name="random_heading">Here is a random number between 0 and %1d !</string>
+</resources>
